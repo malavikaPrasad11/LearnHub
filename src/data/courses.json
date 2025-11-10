@@ -1,0 +1,247 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Design & Development Course for Beginners",
+      "category": "Full Stack Web Development",
+      "description": "Learn web design and development from scratch.",
+      "fullDescription": "Master web design and development from the ground up. Learn HTML, CSS, JavaScript, and modern web development practices to build responsive and interactive websites.",
+      "image":  "/img/course-1.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/Outline_of_web_design_and_web_development",
+      "price": 389.00,
+      "total_students": 335,
+      "duration": "9.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "HTML Fundamentals", "videoUrl": "html1.mp4", "duration": "2h 30m" },
+        { "id": 2, "title": "CSS Styling", "videoUrl": "css1.mp4", "duration": "3h 00m" },
+        { "id": 3, "title": "JavaScript Basics", "videoUrl": "js1.mp4", "duration": "4h 00m" }
+      ],
+      "quizzes": [
+        { "id": 1, "moduleId": 1, "question": "What does HTML stand for?", "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language"], "correct": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Basic & Core Java Programming Language",
+      "category": "Programming Languages",
+      "description": "Introduction to Java programming and core concepts.",
+      "fullDescription": "Learn Java programming from scratch. Understand object-oriented programming, data types, control structures, and build your first Java applications.",
+      "image": "/img/java.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "price": 189.00,
+      "total_students": 65,
+      "duration": "4.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "Java Basics", "videoUrl": "java1.mp4", "duration": "1h 30m" },
+        { "id": 2, "title": "OOP Concepts", "videoUrl": "java2.mp4", "duration": "2h 00m" },
+        { "id": 3, "title": "Advanced Java", "videoUrl": "java3.mp4", "duration": "1h 20m" }
+      ],
+      "quizzes": [
+        { "id": 2, "moduleId": 1, "question": "Which keyword is used to define a class in Java?", "options": ["class", "Class", "className", "type"], "correct": 0 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Data Structure & Algorithms Using Java",
+      "category": "Programming Languages",
+      "description": "Learn data structures and algorithms with Java.",
+      "fullDescription": "Master data structures and algorithms using Java. Learn arrays, linked lists, trees, sorting algorithms, and problem-solving techniques.",
+      "image": "/img/course-3.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/Data_structure",
+      "price": 216.00,
+      "total_students": 57,
+      "duration": "4.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "Arrays and Linked Lists", "videoUrl": "dsa1.mp4", "duration": "2h 00m" },
+        { "id": 2, "title": "Trees and Graphs", "videoUrl": "dsa2.mp4", "duration": "2h 30m" }
+      ],
+      "quizzes": [
+        { "id": 3, "moduleId": 1, "question": "What is the time complexity of binary search?", "options": ["O(1)", "O(n)", "O(log n)", "O(n²)"], "correct": 2 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "React JS Tutorials",
+      "category": "MERN Stack",
+      "description": "Learn React from scratch",
+      "fullDescription": "Master React.js framework. Learn components, state management, hooks, and build modern web applications with React.",
+      "image": "/img/course-1.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/React_(web_framework)",
+      "price": 149.00,
+      "total_students": 35,
+      "duration": "1.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "React Components", "videoUrl": "react1.mp4", "duration": "1h 00m" },
+        { "id": 2, "title": "State and Props", "videoUrl": "react2.mp4", "duration": "0h 50m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 5,
+      "title": "MongoDB Tutorials",
+      "category": "MERN Stack",
+      "description": "Learn MongoDB basics",
+      "fullDescription": "Learn MongoDB database management. Understand NoSQL concepts, CRUD operations, aggregation, and database design.",
+      "image":"/img/mongodb.jpg" ,
+      "videoUrl": "https://en.wikipedia.org/wiki/MongoDB",
+      "price": 89.00,
+      "total_students": 35,
+      "duration": "1.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "MongoDB Basics", "videoUrl": "mongo1.mp4", "duration": "1h 30m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 6,
+      "title": "Express JS Tutorials",
+      "category": "MERN Stack",
+      "description": "Learn Express.js fundamentals",
+      "fullDescription": "Master Express.js framework for building web applications and APIs. Learn routing, middleware, and server-side development.",
+      "image": "/img/express.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/Expressjs",
+      "price": 89.00,
+      "total_students": 35,
+      "duration": "1.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "Express Basics", "videoUrl": "express1.mp4", "duration": "1h 30m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 7,
+      "title": "Node JS Tutorials",
+      "category": "MERN Stack",
+      "description": "Learn Node.js basics",
+      "fullDescription": "Learn Node.js runtime environment. Understand event-driven programming, modules, and building server-side applications with JavaScript.",
+      "image":"/img/nodejs.jpg" ,
+      "videoUrl": "https://en.wikipedia.org/wiki/nodejs",
+      "price": 89.00,
+      "total_students": 35,
+      "duration": "1.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "Node.js Fundamentals", "videoUrl": "node1.mp4", "duration": "1h 30m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 8,
+      "title": "Advanced Java",
+      "category": "Programming Languages",
+      "description": "Deep dive into Java",
+      "fullDescription": "Advanced Java programming concepts including multithreading, collections framework, JDBC, and design patterns.",
+      "image": "/img/java-adv.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/Java",
+      "price": 249.00,
+      "total_students": 0,
+      "duration": "5.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "Multithreading", "videoUrl": "advjava1.mp4", "duration": "2h 00m" },
+        { "id": 2, "title": "Collections Framework", "videoUrl": "advjava2.mp4", "duration": "2h 30m" },
+        { "id": 3, "title": "JDBC", "videoUrl": "advjava3.mp4", "duration": "1h 20m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 9,
+      "title": "HTML Tutorials",
+      "category": "Programming Languages",
+      "description": "Learn HTML from scratch",
+      "fullDescription": "Complete HTML tutorial covering all elements, forms, tables, and semantic HTML5 features.",
+      "image": "/img/html.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/HTML",
+      "price": 99.00,
+      "total_students": 0,
+      "duration": "2.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "HTML Basics", "videoUrl": "html1.mp4", "duration": "1h 30m" },
+        { "id": 2, "title": "Forms and Tables", "videoUrl": "html2.mp4", "duration": "1h 00m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 10,
+      "title": "CSS Tutorials",
+      "category": "Programming Languages",
+      "description": "Learn CSS styling",
+      "fullDescription": "Master CSS styling, layouts, flexbox, grid, animations, and responsive design principles.",
+      "image": "/img/css.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/CSS",
+      "price": 99.00,
+      "total_students": 0,
+      "duration": "2.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "CSS Fundamentals", "videoUrl": "css1.mp4", "duration": "1h 30m" },
+        { "id": 2, "title": "Layouts and Responsive Design", "videoUrl": "css2.mp4", "duration": "1h 00m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 11,
+      "title": "JavaScript Tutorials",
+      "category": "Programming Languages",
+      "description": "Learn JS basics",
+      "fullDescription": "Complete JavaScript tutorial covering variables, functions, DOM manipulation, ES6 features, and modern JS practices.",
+      "image": "/img/javascript.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/JavaScript",
+      "price": 129.00,
+      "total_students": 0,
+      "duration": "3.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "JavaScript Basics", "videoUrl": "js1.mp4", "duration": "2h 00m" },
+        { "id": 2, "title": "DOM Manipulation", "videoUrl": "js2.mp4", "duration": "1h 30m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 12,
+      "title": "MySQL Tutorials",
+      "category": "Programming Languages",
+      "description": "Learn MySQL basics",
+      "fullDescription": "Learn MySQL database management, SQL queries, joins, transactions, and database administration.",
+      "image":"/img/mysql.jpg" ,
+      "videoUrl": "https://en.wikipedia.org/wiki/MySQL",
+      "price": 109.00,
+      "total_students": 0,
+      "duration": "2.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "SQL Basics", "videoUrl": "mysql1.mp4", "duration": "1h 30m" },
+        { "id": 2, "title": "Advanced Queries", "videoUrl": "mysql2.mp4", "duration": "1h 00m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 13,
+      "title": "DSA Tutorials",
+      "category": "Programming Languages",
+      "description": "Learn Data Structures & Algorithms",
+      "fullDescription": "Comprehensive Data Structures and Algorithms course covering all major topics with practical implementations.",
+      "image": "/img/dsa.jpg",
+      "videoUrl": "https://en.wikipedia.org/wiki/Data_structure",
+      "price": 219.00,
+      "total_students": 0,
+      "duration": "4.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "Basic Data Structures", "videoUrl": "dsa1.mp4", "duration": "2h 00m" },
+        { "id": 2, "title": "Algorithms", "videoUrl": "dsa2.mp4", "duration": "2h 30m" }
+      ],
+      "quizzes": []
+    },
+    {
+      "id": 14,
+      "title": "Online Marketing",
+      "category": "Marketing",
+      "description": "Learn Online Marketing",
+      "fullDescription": "Master online marketing strategies including SEO, social media marketing, email marketing, and digital advertising.",
+      "image":"/img/cat-4.jpg" ,
+      "videoUrl": "",
+      "price": 49.00,
+      "total_students": 0,
+      "duration": "1.50 Hrs",
+      "modules": [
+        { "id": 1, "title": "Digital Marketing Basics", "videoUrl": "marketing1.mp4", "duration": "1h 30m" }
+      ],
+      "quizzes": []
+    }
+  ]
+}

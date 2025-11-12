@@ -3,7 +3,7 @@
 LearnHub is a full-stack MERN + Stripe-powered online learning platform allowing users to register, log in, browse courses, purchase them securely, and access content after enrollment.
 ✅ Live Deployment
 
-🔗 https://learnhub-frontend-rm87.onrender.com
+🔗 (https://elearning-frontend-8iwv.onrender.com)
 ---
 
 ## 🚀 **Tech Stack**

@@ -1,6 +1,9 @@
 # ✅ **LearnHub – Full Stack E-Learning Platform**
 
-LearnHub is a full-stack MERN + Stripe-powered online learning platform allowing users to register, log in, browse courses, purchase them securely, and access content after enrollment.
+LearnHub is a full-stack MERN + Stripe-powered online learning platform allowing users to register, log in, browse courses, purchase them securely, and access content after enrollment. 
+An AI-powered group discussion simulator that uses Ollama (local LLM) to generate realistic participant conversations. It helps users practice and improve communication and critical thinking by simulating a real group discussion. 
+
+Link for GD:
 ✅ Live Deployment
 
 🔗 (https://elearning-frontend-8iwv.onrender.com)

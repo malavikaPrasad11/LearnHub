@@ -4,9 +4,7 @@ LearnHub is a full-stack MERN + Stripe-powered online learning platform allowing
 An AI-powered group discussion simulator that uses Ollama (local LLM) to generate realistic participant conversations. It helps users practice and improve communication and critical thinking by simulating a real group discussion. 
 
 Link for GD:
-✅ Live Deployment
-
-🔗 (https://elearning-frontend-8iwv.onrender.com)
+✅ Live Deployment: 🔗 https://elearning-frontend-8iwv.onrender.com
 ---
 
 ## 🚀 **Tech Stack**

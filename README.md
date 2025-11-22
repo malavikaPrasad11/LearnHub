@@ -5,7 +5,7 @@ An AI-powered group discussion simulator that uses Ollama (local LLM) to generat
 
 Link for GD:
 \
-✅ Live Deployment: 🔗 https://elearning-frontend-8iwv.onrender.com
+✅ Live Deployment: 🔗 https://learnhub-frontend-rm87.onrender.com
 ---
 
 ## 🚀 **Tech Stack**
